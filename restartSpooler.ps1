@@ -1,1 +1,1 @@
-Get-Service -Name se*
+Restart-Service -Name spooler
